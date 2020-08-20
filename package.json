@@ -1,12 +1,12 @@
 {
   "name": "as",
   "version": "1.0.0",
-  "description": "This source code is part of Maximilian Schwarzmüller's \"Progressive Web Apps - Complete Guide\" course on udemy.com.",
+  "description": "Pwa",
   "main": "index.js",
   "scripts": {
     "start": "http-server -c-1 -p 8000"
   },
-  "author": "",
+  "author": "Siddharth",
   "license": "ISC",
   "dependencies": {
     "http-server": "^0.12.3"
